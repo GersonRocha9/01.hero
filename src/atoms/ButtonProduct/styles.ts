@@ -1,11 +1,11 @@
 import styled from "styled-components";
 
-export const Button = styled.button`
+export const BtnProduct = styled.button`
   background: #f9c851;
   color: #fff;
   border: none;
-  padding: 1rem 2rem;
-  margin: 0.5rem 0;
+  padding: 1.5rem 2.5rem;
+  margin-top: 3rem;
   cursor: pointer;
   transition: all 0.3s ease-in-out;
   font-family: "Poppins", sans-serif;
