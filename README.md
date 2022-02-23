@@ -8,13 +8,13 @@ Landing page for Kreed created with TypeScript, Styled Components, ReactJS and A
 
 The main goal of this project was to deepen my studies in Atomic Design Pattern.
 
-<br> <hr> <br>
+<br> <hr> 
 
 ## Screenshot
 
 ![App Screenshot](./src/assets/screenshot.png)
 
-<br> <hr> <br>
+<br> <hr> 
 
 ## Installation
 
@@ -42,7 +42,7 @@ Start the server
   yarn dev
 ```
 
-<br> <hr> <br>
+<br> <hr> 
 
 
 ## 🔗 Links
