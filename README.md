@@ -2,7 +2,7 @@
 <img width="300px" src="./src/assets/logo.svg" />
 </p>  
 
-# Kreed - A smart mobile application
+# Kreed - A Digital Agency
 
 Landing page for Kreed created with TypeScript, Styled Components, ReactJS and Atomic Design Pattern.
 
