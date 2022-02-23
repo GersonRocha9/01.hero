@@ -1,4 +1,6 @@
-![Logo](./src/assets/logo.svg)
+<p align="center" >
+<img width="300px" src="./src/assets/logo.svg" />
+</p>  
 
 # Kreed - A smart mobile application
 
