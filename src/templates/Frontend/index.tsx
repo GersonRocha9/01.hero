@@ -1,11 +1,16 @@
 import * as S from "./styles";
+import Header from "../../organisms/Header/index";
 
 type FrontendProps = {
   children: React.ReactNode;
 };
 
 const Frontend = ({ children }: FrontendProps) => {
-  return <S.Container>Teste Frontend {children}</S.Container>;
+  return (
+    <S.Container>
+      <Header />
+    </S.Container>
+  );
 };
 
 export default Frontend;
